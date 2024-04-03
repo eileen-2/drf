@@ -1,0 +1,11 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.env
+env
+# Visual Studio Code
+.vscode/
+venv
